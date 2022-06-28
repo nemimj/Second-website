@@ -1,0 +1,82 @@
+h1,h2,h3,h4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#title{
+    background-color: #00FFDD;
+    text-align: center;
+    padding:0% 2%;
+}
+.top-section h1{
+   padding-top: 4%;
+    font-size: 8vw;
+}
+
+.image-orange{
+    width: 60%;
+    height: auto;
+    
+}
+
+.ul-custom li{
+    margin: 0px 10px;
+    font-size: 1rem;
+}
+
+.images{
+    width: 20vw;
+    height: auto;
+    border-radius: 10%;
+}
+
+.about{
+    width: 100%;
+  text-align: left;
+}
+
+#features{
+    align-items: center;
+    text-align: center;
+    padding: 3% 14%;
+    background-color: #FEECE9;
+}
+.first-col{
+    width: 30%;
+}
+
+.heading2{
+    margin-top:10%;
+}
+
+.first-con{
+    margin-bottom: 4%;
+}
+
+.logo{
+    width: 30%;
+    display: block;
+    margin: 2px auto;
+}
+
+.logo-padding{
+    padding: 4%;
+}
+
+h3{
+    font-size: medium;
+   padding-bottom: 4%;
+}
+
+#clients{
+    padding: 4% 8%;
+}
+
+#footer{
+    padding:8%;
+    text-align: center;
+    background-color: #FEECE9;
+
+}
+
+#footer i{
+    margin: 3%;
+}
