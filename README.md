@@ -1,3 +1,3 @@
 # Second-website
 Fruit-Punch (responsive website)
-this website is my first responsive website take look...
+this my first responsive website.
